@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual sua preferência por carros?",
+        enunciado: "Qual é a pricipal função da semeadora na agricultura?",
         alternativas: [
             {
                 texto: "SUV",
